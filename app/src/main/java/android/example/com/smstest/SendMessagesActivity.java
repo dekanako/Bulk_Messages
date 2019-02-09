@@ -94,7 +94,6 @@ public class SendMessagesActivity extends AppCompatActivity
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after)
             {
-
             }
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count)
@@ -112,7 +111,7 @@ public class SendMessagesActivity extends AppCompatActivity
 
 
 
-    private  class Task extends AsyncTask<Void, Void, String>
+    private class Task extends AsyncTask<Void, Void, String>
     {
         String json =
                 "[\n" +
