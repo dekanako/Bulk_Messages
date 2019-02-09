@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SMSTEST</string>
+    <string name="message">message</string>
+    <string name="hint_send_message">type the message you want to send here</string>
+    <string name="send_message">send message</string>
+    <string name="type_the_phone_number_of_the_receiver">type the phone number of the receiver</string>
+    <string name="add_a_comma_between_each_number">add a comma between each number</string>
+    <string name="token_title">Token</string>
+    <string name="setting_menu_title">Setting</string>
+    <string name="token_string_id">token_pref</string>
+    <string name="summary">add or edit tokens</string>
+</resources>
